@@ -82,15 +82,13 @@ https://newsapi.org/v2/top-headlines?country=in&apiKey=YOUR_API_KEY
 
 ## 📸 Screenshots
 
-* Home Page (News Cards)
+* Home Page
+
+
+
+
 * AI Explanation Box
 * Login / Signup Page
-
----
-
-## 🎥 Demo Video
-
-
 
 ---
 
