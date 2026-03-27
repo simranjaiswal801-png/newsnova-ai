@@ -90,7 +90,7 @@ https://newsapi.org/v2/top-headlines?country=in&apiKey=YOUR_API_KEY
 
 ## 🎥 Demo Video
 
-(Attach your 3-minute demo video link here)
+
 
 ---
 
