@@ -81,14 +81,14 @@ https://newsapi.org/v2/top-headlines?country=in&apiKey=YOUR_API_KEY
 ---
 
 ## 📸 Screenshots
-
-* Home Page
-
+<img width="1918" height="926" alt="Screenshot 2026-03-27 221854" src="https://github.com/user-attachments/assets/2dfae1f0-1982-4110-9ccb-7c9327cabd0c" />
 
 
 
-* AI Explanation Box
-* Login / Signup Page
+
+
+
+
 
 ---
 
