@@ -83,6 +83,8 @@ https://newsapi.org/v2/top-headlines?country=in&apiKey=YOUR_API_KEY
 ## 📸 Screenshots
 <img width="1918" height="926" alt="Screenshot 2026-03-27 221854" src="https://github.com/user-attachments/assets/2dfae1f0-1982-4110-9ccb-7c9327cabd0c" />
 <img width="1918" height="926" alt="Screenshot 2026-03-27 221854" src="https://github.com/simranjaiswal801-png/newsnova-ai/blob/main/Screenshot%202026-03-27%20222011.png?raw=true" />
+<img width="1918" height="926" alt="Screenshot 2026-03-27 221854" src="" />
+<img width="1918" height="926" alt="Screenshot 2026-03-27 221854" src="" />
 
 
 
