@@ -94,6 +94,10 @@ https://newsapi.org/v2/top-headlines?country=in&apiKey=YOUR_API_KEY
 
 ---
 
+## Live Demo 
+https://newsnova-k0yj2li7h-simranjaiswal801-pngs-projects.vercel.app/
+
+
 ## 📊 Impact
 
 * ⏱️ Saves time by summarizing long news
