@@ -26,11 +26,21 @@ export default function App() {
   }, []);
 
   useEffect(() => {
-    fetch(
-      "https://gnews.io/api/v4/top-headlines?lang=en&country=in&max=24&apikey=4390bd48f916120416cbb33621053601",
-    )
-      .then((res) => res.json())
-      .then((data) => setNews(data.articles || []));
+    fetch("/api/news")
+      .then((res) => {
+        if (!res.ok) {
+          throw new Error("Failed to fetch news");
+        }
+        return res.json();
+      })
+      .then((data) => {
+        console.log(data); // debugging
+        setNews(data.articles || []);
+      })
+      .catch((err) => {
+        console.error(err);
+        setNews([]);
+      });
   }, []);
 
   const filteredNews = news.filter(
