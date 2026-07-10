@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Basic reset + dark theme */
+body {
+  margin: 0;
+  background-color: #0f172a; /* dark blue/black */
+  color: #ffffff;
+  font-family: system-ui, sans-serif;
+}
+
+/* Optional smooth UI */
+* {
+  box-sizing: border-box;
+}
