@@ -14,6 +14,11 @@ An AI-powered news platform that simplifies complex news into short, easy-to-und
 
 ---
 
+## Live Demo 
+https://newsnova-ai.vercel.app/
+
+---
+
 ## 🛠️ Tech Stack
 
 * **Frontend:** React.js, Tailwind CSS, Framer Motion
@@ -87,9 +92,6 @@ https://newsapi.org/v2/top-headlines?country=in&apiKey=YOUR_API_KEY
 
 
 ---
-
-## Live Demo 
-https://newsnova-ai.vercel.app/
 
 ## 📊 Impact
 
